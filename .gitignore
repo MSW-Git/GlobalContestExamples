@@ -1,0 +1,23 @@
+# Claude Code / AI assistant artifacts
+.claude/
+CLAUDE.md
+.claude.json
+.claude.local.json
+memory/
+.aider*
+.cursor/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Python (used for utility scripts)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
