@@ -21,3 +21,6 @@ __pycache__/
 *.pyo
 .venv/
 venv/
+
+# World PDFs are hosted on GitHub Releases (tag: pdfs), not in the repo
+[0-9][0-9].*World*/*/*.pdf
