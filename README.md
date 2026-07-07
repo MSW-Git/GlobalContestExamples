@@ -22,6 +22,14 @@ See the documents in each example's language folder for detailed usage informati
 | 06.DefenseWorld | [en](https://github.com/MSW-Git/GlobalContestExamples/raw/refs/heads/main/06.DefenseWorld/en/DefenseWorld_en.mod) [ko](https://github.com/MSW-Git/GlobalContestExamples/raw/refs/heads/main/06.DefenseWorld/ko/DefenseWorld_ko.mod) [zh-tw](https://github.com/MSW-Git/GlobalContestExamples/raw/refs/heads/main/06.DefenseWorld/zh-tw/DefenseWorld_zh_tw.mod) | [en](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/DefenseWorld_en.pdf) [ko](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/DefenseWorld_ko.pdf) [zh-tw](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/DefenseWorld_zh_tw.pdf) |
 | 07.PartyWorld | [en](https://github.com/MSW-Git/GlobalContestExamples/raw/refs/heads/main/07.PartyWorld/en/PartyWorld_en.mod) [ko](https://github.com/MSW-Git/GlobalContestExamples/raw/refs/heads/main/07.PartyWorld/ko/PartyWorld_ko.mod) [zh-tw](https://github.com/MSW-Git/GlobalContestExamples/raw/refs/heads/main/07.PartyWorld/zh-tw/PartyWorld_zh_tw.mod) | [en](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/PartyWorld_en.pdf) [ko](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/PartyWorld_ko.pdf) [zh-tw](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/PartyWorld_zh_tw.pdf) |
 
+## Additional Materials
+
+Supplementary reference materials that aren't tied to a specific sample world (no `.mod` package). Each entry includes a PDF document only.
+
+| Topic | PDF File |
+|---------|-------------------|
+| 99.NetworkSync (Networking and Synchronization) | [en](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/NetworkSync_en.pdf) [ko](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/NetworkSync_ko.pdf) [zh-tw](https://github.com/MSW-Git/GlobalContestExamples/releases/download/pdfs/NetworkSync_zh_tw.pdf) |
+
 ## License
 
 This project is licensed under the MIT License.
